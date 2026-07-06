@@ -18,6 +18,8 @@ This project was built using a **No-Code/Low-Code Automation** approach with n8n
 
 ---
 
+https://youtu.be/nVYqAaJukEI
+
 # 🎯 Objectives
 
 - Automate customer support
