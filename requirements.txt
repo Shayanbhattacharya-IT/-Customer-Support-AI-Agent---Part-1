@@ -1,0 +1,7 @@
+Tools used for this Project
+
+N8N 
+Telegram Bot
+Google Gemini
+Google Sheet
+Jira
